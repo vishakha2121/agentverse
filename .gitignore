@@ -62268,14 +62268,3 @@ env/
 .env
 .env.local
 node_modules/
-dist/
-build/
-.vite/
-*.log
-*.db
-*.sqlite3
-.pytest_cache/
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
