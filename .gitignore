@@ -65031,13 +65031,3 @@ PAT (Personal Access Token) paste karo — normal password nahi chalega.
 PAT kaise banaye (agar nahi banaya abhi tak):
 
 https://github.com/settings/tokens kholo
-
-Generate new token (classic) click karo
-
-Note: agentverse-push
-
-Expiration: 90 days
-
-Scopes: ✅ repo + ✅ workflow tick karo
-
-Generate token → Copy karo (ek hi baar dikhta hai!)
